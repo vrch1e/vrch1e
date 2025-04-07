@@ -1,9 +1,9 @@
 <h1 align="center">I'm Archie❗</h1>
 <h3 align="center">Devving from London 🌆</h3>
 
-- • Current project --> [my ios app, PackRun](https://github.com/vrch1e/PackRun)
+- Current project --> [my ios app, PackRun](https://github.com/vrch1e/PackRun)
 
-- • Currently learning --> **Python, LLM API's, AWS**
+- Currently learning --> **Python, LLM API's, AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
