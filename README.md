@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrch1e&label=Profile%20views&color=0e75b6&style=flat" alt="vrch1e" /> </p>
 
-- • Current project --> [my ios app, PackRun](https://github.com/vrch1e/PackRun)
+- Current project --> [my ios app, PackRun](https://github.com/vrch1e/PackRun)
 
-- • Currently learning --> **Python, LLM API's, AWS**
+- Currently learning --> **Python, LLM API's, AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
