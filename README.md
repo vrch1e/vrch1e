@@ -1,15 +1,15 @@
-<h1 align="center">I'm Archie❗</h1>
-<h3 align="center">Devving from London 🌆</h3>
+# 💫 About Me:
+🔭 I’m currently working on Packrun, my social ios running app<br>🌱 I’m currently learning Python, LLM API's, AWS<br>⚡ Fun fact: I've won money playing bonk.io
 
-- Current project --> [my ios app, PackRun](https://github.com/vrch1e/PackRun)
 
-- Currently learning --> **Python, LLM API's, AWS**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/archiejmt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/archiejmt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:archiejmt@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vrch1e&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vrch1e&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrch1e&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/archiejmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archiejmt" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=vrch1e&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrch1e&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="vrch1e" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrch1e&show_icons=true&theme=synthwave&locale=en" alt="vrch1e" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
