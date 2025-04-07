@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Packrun, my social ios running app<br>🌱 I’m currently learning Python, LLM API's, AWS<br>⚡ Fun fact: I've won money playing bonk.io
+🔭 I’m currently working on PackRun, my social ios running app<br>🌱 I’m currently learning Python, LLM API's, AWS<br>⚡ Fun fact: I've won money playing bonk.io
 
 
 ## 🌐 Socials:
